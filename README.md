@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on Java Spring Boot apps for work, and trying to get back into building HybridFit<br><br>I'm looking to collaborate on learning how to build AI agents or automations<br><br>I'm currently learning how to become a better engineer with coding agents<br><br>Talk to me about tennis, Manchester United, and completely random things
+I'm currently working on Java Spring Boot apps for work, and trying to get back into building [!HybridFit](https://github.com/tnahata/hybrid-fit)<br><br>I'm looking to collaborate on learning how to build AI agents or automations<br><br>I'm currently learning how to become a better engineer with coding agents<br><br>Talk to me about tennis, Manchester United, and completely random things
 
 
 ## 🌐 Socials:
